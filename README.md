@@ -1,3 +1,3 @@
 # Test-Repo
 This is a test Repo
-Author- Anu Kumari Gupta
+Author- Anu Gupta
